@@ -1,6 +1,6 @@
 # PetShield
 ### Description
-A react application with the aim of connecting all the pet shelters in Cyprus, by providing a share database for the data storage of their animals. In addition, this particular application, will provide a dashboard to the pet shelters to import their existing data(stored in excel sheets) so it can be displayed and accessed to the online users.
+A react application with the aim of connecting all the animal shelters in Cyprus, by providing a share database for the data storage of their animals. In addition, this particular application, will provide a dashboard to the animal shelters to import their existing data(stored in excel sheets) so it can be displayed and accessed to the online users.
 
 ### Outcomes
 1. A platform which handles animals data from different sheltes in Cyprus
